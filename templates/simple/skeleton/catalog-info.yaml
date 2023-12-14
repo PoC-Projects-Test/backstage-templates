@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-templates-02
+  annotations:
+    github.com/project-slug: PoC-Projects-Test/backstage-templates-02
+spec:
+  type: other
+  lifecycle: unknown
+  owner: srd02
