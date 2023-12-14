@@ -1,0 +1,5 @@
+# {{cookiecutter.name}}
+
+provider "name" {
+
+}
